@@ -1,0 +1,9 @@
+{
+    "name":"tabla Periodica",
+    "short_name":"tabla Periodica",
+    "lang":"es-Es",
+    "start_url": "/app/index.html",
+    "display": "standalone"
+    
+
+}

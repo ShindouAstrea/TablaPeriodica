@@ -1,0 +1,1 @@
+let elemento:string= "null";
