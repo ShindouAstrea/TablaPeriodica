@@ -1,3 +1,17 @@
 .body {
   background: black;
 }
+.body .row {
+  background: red;
+  width: 100%;
+}
+.body .row .col {
+  background: blue;
+  width: 100%;
+}
+.body .row .col #Materias {
+  margin-bottom: 10px;
+}
+.body .row .col #Elementos {
+  margin-top: 10px;
+}
